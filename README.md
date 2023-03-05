@@ -11,3 +11,6 @@ Step 3: Run build.sh as root
 Step 4: ???
 
 Step 5: Profit
+
+## How to run
+You'll figure it out
